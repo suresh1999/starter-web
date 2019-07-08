@@ -10,3 +10,7 @@
 
 ## objective
 
+Prodcution environment
+
+Heroku
+
