@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Suresh Kumar -- Developer -- No handle
 
 # THANKS
 
