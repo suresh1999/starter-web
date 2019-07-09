@@ -14,3 +14,7 @@ Prodcution environment
 
 Heroku
 
+## Copyright
+
+@mass
+
