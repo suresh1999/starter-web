@@ -18,5 +18,6 @@ Heroku
 
 ## Copyright
 
+All rights reserved
 @mass
 
